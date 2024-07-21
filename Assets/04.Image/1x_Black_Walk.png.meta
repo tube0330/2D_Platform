@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 560fba5c23f39fc429ac87483349d6cd
+guid: e5f5a656739c27643a4b1e2924cec8c6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -136,7 +136,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1x_black_0
+      name: 1x_Black_Walk_0
       rect:
         serializedVersion: 2
         x: 61
@@ -150,14 +150,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffdc8a5219e99a844994416874c976ef
-      internalID: 676002385
+      spriteID: a969da1c3201ebe4daf654ed72c5a39f
+      internalID: -1947364617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_1
+      name: 1x_Black_Walk_1
       rect:
         serializedVersion: 2
         x: 146
@@ -171,14 +171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c8d3c80e4de9d24d81337462abef7c8
-      internalID: 1191192718
+      spriteID: 37b2e360c046ad34db5989eae42d98ca
+      internalID: -794408844
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_2
+      name: 1x_Black_Walk_2
       rect:
         serializedVersion: 2
         x: 231
@@ -192,14 +192,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0351f73873638ab4594a6c3a70b98b24
-      internalID: 1555105841
+      spriteID: 58e231e2df19de14fbc4c545fd63350f
+      internalID: 111948232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_3
+      name: 1x_Black_Walk_3
       rect:
         serializedVersion: 2
         x: 316
@@ -213,14 +213,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dba052276559d6843aecdb6bd1f12e72
-      internalID: 1341549757
+      spriteID: abd8e622e21d9c44d9c3b84f36a3b0a1
+      internalID: 1057671070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_4
+      name: 1x_Black_Walk_4
       rect:
         serializedVersion: 2
         x: 401
@@ -234,14 +234,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caa878ac600619a478194d31f7982f13
-      internalID: -2082067058
+      spriteID: d897cd92f37aa574ea27dadf2b1c98d1
+      internalID: 1607431618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_5
+      name: 1x_Black_Walk_5
       rect:
         serializedVersion: 2
         x: 486
@@ -255,14 +255,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8baea8aab9dfc0044953ae9407515fbb
-      internalID: 1087849639
+      spriteID: 934e21d8c733a3c48951fa254a9c9969
+      internalID: 793396637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_6
+      name: 1x_Black_Walk_6
       rect:
         serializedVersion: 2
         x: 571
@@ -276,14 +276,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd8b110b715a822428755eb79d41a076
-      internalID: -574962275
+      spriteID: 1a6701af141b1d84791761a23ee2f8d0
+      internalID: 671123724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_7
+      name: 1x_Black_Walk_7
       rect:
         serializedVersion: 2
         x: 657
@@ -297,14 +297,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b796819565e62de4e92bd1d893a0d991
-      internalID: 1772675318
+      spriteID: 4514272691a06754baed4e7c8699d294
+      internalID: -372048894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_8
+      name: 1x_Black_Walk_8
       rect:
         serializedVersion: 2
         x: 758
@@ -318,14 +318,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83c6de89b5f9b054b87e70a642bbbef0
-      internalID: 613677720
+      spriteID: 2d2ffb04963d287479a0f21cb072cc7a
+      internalID: 1520378683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_9
+      name: 1x_Black_Walk_9
       rect:
         serializedVersion: 2
         x: 866
@@ -339,14 +339,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0910e47d54abf544684b8235fafda911
-      internalID: 1989294596
+      spriteID: 048dd5796335e6d41b7146e744277f0d
+      internalID: 2081824199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_10
+      name: 1x_Black_Walk_10
       rect:
         serializedVersion: 2
         x: 124
@@ -360,14 +360,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96162ad4042bbcb4f88992d1dadb272f
-      internalID: 704319659
+      spriteID: 9101249452dd78c4ab89a40508e44c2a
+      internalID: 840102546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_11
+      name: 1x_Black_Walk_11
       rect:
         serializedVersion: 2
         x: 243
@@ -381,14 +381,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5af6ea5a2f577249ad7ac049075f725
-      internalID: -1479901004
+      spriteID: 740a21e463b4c8245b03860866a025d6
+      internalID: -491572182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_12
+      name: 1x_Black_Walk_12
       rect:
         serializedVersion: 2
         x: 358
@@ -402,14 +402,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91972f6389a5f5d41a3f581c8f569d36
-      internalID: -475360192
+      spriteID: 367507ce931b59a4eb90e835aadb6622
+      internalID: 1331582610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_13
+      name: 1x_Black_Walk_13
       rect:
         serializedVersion: 2
         x: 466
@@ -423,14 +423,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27d5a0158b8226b41b1f4057b15b2822
-      internalID: -865800284
+      spriteID: b2ad9de76bcdafa41b057eda9c171850
+      internalID: 1288701997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_14
+      name: 1x_Black_Walk_14
       rect:
         serializedVersion: 2
         x: 564
@@ -444,14 +444,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83db6377e219a0f41bd1e64eb4ed7d9c
-      internalID: 1798142280
+      spriteID: 930edbc1900795f4c8367d97caa1f5c4
+      internalID: 1095445148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_15
+      name: 1x_Black_Walk_15
       rect:
         serializedVersion: 2
         x: 650
@@ -465,14 +465,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e649f77a22949c4ca770c145a53b587
-      internalID: 215340155
+      spriteID: 885f5674043f6d645b258204e78faff5
+      internalID: 1010808039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_16
+      name: 1x_Black_Walk_16
       rect:
         serializedVersion: 2
         x: 735
@@ -486,14 +486,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b667c961f2f6d06459cf2a3db11e5c4e
-      internalID: 1576847818
+      spriteID: 97b6cd4d017d2dd43ba9ecf88313fa2c
+      internalID: 552518434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1x_black_17
+      name: 1x_Black_Walk_17
       rect:
         serializedVersion: 2
         x: 820
@@ -507,8 +507,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acc83a0dbe5b4c246aa4d9e8b7ae802f
-      internalID: 422427628
+      spriteID: 5864aaf3920d3ab49b025b8cffd286da
+      internalID: -1526938814
       vertices: []
       indices: 
       edges: []
@@ -524,24 +524,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      1x_black_0: 676002385
-      1x_black_1: 1191192718
-      1x_black_10: 704319659
-      1x_black_11: -1479901004
-      1x_black_12: -475360192
-      1x_black_13: -865800284
-      1x_black_14: 1798142280
-      1x_black_15: 215340155
-      1x_black_16: 1576847818
-      1x_black_17: 422427628
-      1x_black_2: 1555105841
-      1x_black_3: 1341549757
-      1x_black_4: -2082067058
-      1x_black_5: 1087849639
-      1x_black_6: -574962275
-      1x_black_7: 1772675318
-      1x_black_8: 613677720
-      1x_black_9: 1989294596
+      1x_Black_Walk_0: -1947364617
+      1x_Black_Walk_1: -794408844
+      1x_Black_Walk_10: 840102546
+      1x_Black_Walk_11: -491572182
+      1x_Black_Walk_12: 1331582610
+      1x_Black_Walk_13: 1288701997
+      1x_Black_Walk_14: 1095445148
+      1x_Black_Walk_15: 1010808039
+      1x_Black_Walk_16: 552518434
+      1x_Black_Walk_17: -1526938814
+      1x_Black_Walk_2: 111948232
+      1x_Black_Walk_3: 1057671070
+      1x_Black_Walk_4: 1607431618
+      1x_Black_Walk_5: 793396637
+      1x_Black_Walk_6: 671123724
+      1x_Black_Walk_7: -372048894
+      1x_Black_Walk_8: 1520378683
+      1x_Black_Walk_9: 2081824199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

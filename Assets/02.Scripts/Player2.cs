@@ -1,27 +1,30 @@
 using UnityEngine;
 
-public class Player1 : MonoBehaviour
+public class Player2 : MonoBehaviour
 {
     [SerializeField] SpriteRenderer spriteRenderer;
     private Rigidbody2D rb;
     private Animator ani;
-    private float speed = 5f;
+    private Transform tr;
+    private float h = 0f;
+    float speed = 5f;
 
-    void Start()
+
+      void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         ani = GetComponent<Animator>();
     }
 
-    void FixedUpdate()
+     void FixedUpdate()
     {
         float h = 0f;
 
         // A 키 (왼쪽) 또는 D 키 (오른쪽)이 눌렸는지 확인
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.LeftArrow))
             h = -1f;
-        else if (Input.GetKey(KeyCode.D))
+        else if (Input.GetKey(KeyCode.RightArrow))
             h = 1f;
 
         // 방향 전환
