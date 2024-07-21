@@ -3,15 +3,16 @@ using UnityEngine;
 public class Player2 : MonoBehaviour
 {
     [SerializeField] SpriteRenderer spriteRenderer;
+    [SerializeField] float speed = 5f;
     private Rigidbody2D rb;
     private Animator ani;
     private Transform tr;
     private float h = 0f;
-    float speed = 5f;
 
 
       void Start()
     {
+        tr = transform;
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         ani = GetComponent<Animator>();
@@ -21,9 +22,9 @@ public class Player2 : MonoBehaviour
     {
         float h = 0f;
 
-        // A 키 (왼쪽) 또는 D 키 (오른쪽)이 눌렸는지 확인
         if (Input.GetKey(KeyCode.LeftArrow))
             h = -1f;
+
         else if (Input.GetKey(KeyCode.RightArrow))
             h = 1f;
 
@@ -39,6 +40,7 @@ public class Player2 : MonoBehaviour
         // 애니메이션 설정
         if (Mathf.Abs(h) > 0)
             ani.SetBool("isWalk", true);
+            
         else
             ani.SetBool("isWalk", false);
     }
