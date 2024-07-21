@@ -3,7 +3,7 @@ using UnityEngine;
 public class Player2 : MonoBehaviour
 {
     [SerializeField] SpriteRenderer spriteRenderer;
-    [SerializeField] float speed = 5f;
+    float speed = 5f;
     private Rigidbody2D rb;
     private Animator ani;
     private Transform tr;
@@ -20,7 +20,7 @@ public class Player2 : MonoBehaviour
 
      void FixedUpdate()
     {
-        float h = 0f;
+        h = 0f;
 
         if (Input.GetKey(KeyCode.LeftArrow))
             h = -1f;
@@ -40,7 +40,7 @@ public class Player2 : MonoBehaviour
         // 애니메이션 설정
         if (Mathf.Abs(h) > 0)
             ani.SetBool("isWalk", true);
-            
+
         else
             ani.SetBool("isWalk", false);
     }

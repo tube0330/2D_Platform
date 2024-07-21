@@ -204,7 +204,7 @@ Transform:
   m_GameObject: {fileID: 17118751}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6, y: 1, z: 0}
+  m_LocalPosition: {x: -7, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -306,6 +306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteRenderer: {fileID: 0}
+  speed: 5
 --- !u!1001 &163148762
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -868,7 +869,7 @@ GameObject:
   - component: {fileID: 1805433337}
   - component: {fileID: 1805433338}
   - component: {fileID: 1805433339}
-  - component: {fileID: 1805433340}
+  - component: {fileID: 1805433342}
   - component: {fileID: 1805433341}
   m_Layer: 0
   m_Name: 2P
@@ -1003,8 +1004,22 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!70 &1805433340
-CapsuleCollider2D:
+--- !u!114 &1805433341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1805433333}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c315d4650a633274282f94fa95e5f1d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 0}
+  speed: 5
+--- !u!58 &1805433342
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1036,21 +1051,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.515625, y: 0.5625}
-  m_Direction: 0
---- !u!114 &1805433341
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1805433333}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c315d4650a633274282f94fa95e5f1d7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  spriteRenderer: {fileID: 0}
+  serializedVersion: 2
+  m_Radius: 0.2890625
 --- !u!1001 &1864789970
 PrefabInstance:
   m_ObjectHideFlags: 0
