@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG_forest
+    uniqueID: 2661703959
+    locked: 0
+  - name: FOREST_pack
+    uniqueID: 3528789915
+    locked: 0
+  - name: 1P
+    uniqueID: 449829417
+    locked: 0
+  - name: 2P
+    uniqueID: 3609943807
+    locked: 0
