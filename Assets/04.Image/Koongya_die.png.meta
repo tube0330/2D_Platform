@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: dfbf75f80a190c4479fb92e31dd22b90
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 450
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Koongya_die_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1177
+        width: 296
+        height: 326
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea63890151384d4fadede5a38f45640
+      internalID: -563436157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koongya_die_5
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 1205
+        width: 296
+        height: 296
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cde7cd4f95aed409b0fd0aae3c403c
+      internalID: 1378794924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koongya_die_6
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 1301
+        width: 200
+        height: 200
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee000248f478d3348b75976a7bd1e62e
+      internalID: 1533371822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koongya_die_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1089
+        width: 478
+        height: 411
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcef0203fb88db46a2853aa5af1963f
+      internalID: 1063288765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koongya_die_3
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1081
+        width: 379
+        height: 416
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401b127ae4348d54a9cd0e3b4097ce7c
+      internalID: -958936948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koongya_die_4
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1098
+        width: 374
+        height: 404
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbbd50df389a3b478eac6ed4fa28a95
+      internalID: 2012656171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koongya_die_7
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1290
+        width: 220
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af037d929682ee543ba35ae3cf8219e7
+      internalID: 1754940608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koongya_die_8
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1149
+        width: 305
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f0f63eedd06240ac5054574ffbd8c
+      internalID: 772556891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koongya_die_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 554
+        width: 452
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae682f7fe0c4143bde6953a3c59bd8
+      internalID: -1833662452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Koongya_die_1: -563436157
+      Koongya_die_10: -1589173651
+      Koongya_die_11: 1799922007
+      Koongya_die_12: -1791440831
+      Koongya_die_16: -1881223200
+      Koongya_die_17: 499609825
+      Koongya_die_18: -1236468540
+      Koongya_die_19: 400090303
+      Koongya_die_2: 1063288765
+      Koongya_die_20: -1085454907
+      Koongya_die_21: 2046451467
+      Koongya_die_22: 509233500
+      Koongya_die_23: -1100920703
+      Koongya_die_24: -382248762
+      Koongya_die_25: -2055379035
+      Koongya_die_26: 76831074
+      Koongya_die_27: 1773650167
+      Koongya_die_28: 872071529
+      Koongya_die_29: 1535547011
+      Koongya_die_3: -958936948
+      Koongya_die_30: 45793641
+      Koongya_die_31: 1725319726
+      Koongya_die_32: 330475641
+      Koongya_die_33: -422292833
+      Koongya_die_34: 1004292325
+      Koongya_die_35: 627394590
+      Koongya_die_36: 1515908883
+      Koongya_die_37: -1854065455
+      Koongya_die_38: 722310365
+      Koongya_die_39: -1380144773
+      Koongya_die_4: 2012656171
+      Koongya_die_40: 1637567397
+      Koongya_die_41: 1457365743
+      Koongya_die_42: -573750965
+      Koongya_die_43: 565095253
+      Koongya_die_44: -1900624165
+      Koongya_die_45: 899340746
+      Koongya_die_46: -730622338
+      Koongya_die_47: 1218385874
+      Koongya_die_48: -773046934
+      Koongya_die_49: -1797571628
+      Koongya_die_5: 1378794924
+      Koongya_die_50: -1739679243
+      Koongya_die_51: -714441786
+      Koongya_die_52: 1026256626
+      Koongya_die_53: 406555893
+      Koongya_die_54: 1635888817
+      Koongya_die_55: 1131442081
+      Koongya_die_56: 948463548
+      Koongya_die_57: 1003108955
+      Koongya_die_58: 1354134232
+      Koongya_die_59: -1476769193
+      Koongya_die_6: 1533371822
+      Koongya_die_60: -538843121
+      Koongya_die_61: -1197948872
+      Koongya_die_62: 2129708402
+      Koongya_die_63: 1349216665
+      Koongya_die_64: 1259059245
+      Koongya_die_65: -1474171125
+      Koongya_die_66: 39163846
+      Koongya_die_67: 692602015
+      Koongya_die_68: 826196232
+      Koongya_die_7: 1754940608
+      Koongya_die_8: 772556891
+      Koongya_die_9: -1833662452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
